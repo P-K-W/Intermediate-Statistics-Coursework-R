@@ -1,1 +1,1 @@
-# Intermediate-Statistics-Coursework-R
+# Intermediate Statistics: Data Analysis and Visualisation with R Coursework
